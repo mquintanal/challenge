@@ -54,7 +54,7 @@ car-dealership-backend/
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/car-dealership-backend.git
+   git clone https://github.com/mquintanal/challenge.git
    cd car-dealership-backend
    ```
 
